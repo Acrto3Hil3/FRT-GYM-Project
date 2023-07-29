@@ -1,5 +1,5 @@
 # FRT-GYM-Project
-This is my Gym Static Frontend Website !!
+This is my Static GYM Frontend Website !!
 
 🏋️ GymStatic - Simple and Stylish Gym Website Template 🏋️
 
