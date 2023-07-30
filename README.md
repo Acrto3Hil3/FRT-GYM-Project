@@ -116,7 +116,7 @@ Welcome to GymStatic, your go-to solution for a modern and captivating gym websi
 ![ss10](https://github.com/Acrto3Hil3/FRT-GYM-Project/assets/123864776/5bc63273-6b1f-4270-8037-fdc302964387)
 
 # Contact Us
-![ss11](https://github.com/Acrto3Hil3/FRT-GYM-Project/assets/123864776/8cabb773-cdb1-49a2-9a4f-7a4654ea3138)
+![ss11](https://github.com/Acrto3Hil3/FRT-GYM-Project/assets/123864776/3412d027-38b4-4c23-bc46-1c1f1d007822)
 
 # Coding Editor View
 ![ss0](https://github.com/Acrto3Hil3/FRT-GYM-Project/assets/123864776/75e5e118-6fa8-4408-ac57-6bf68768a35d)
