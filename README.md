@@ -61,6 +61,9 @@ https://orange-sea-060e1ec10.3.azurestaticapps.net
 ## Video uploaded on youtub platform
 https://youtu.be/sN9owfApoQE
 
+## Linked Post link
+https://www.linkedin.com/posts/subhash-yadav-7536651b7_webdevelopment-microsoftazure-cloudservices-activity-7091435335640858624-qKua?utm_source=share&utm_medium=member_desktop
+
 ## ⚠️ *Note: This Website is made for the purpose of FRT Project submition. So, it does not contains any backend part therefore it is not able to store any client data, queries and information. To solve the queries contact number and address is provided so client can go through physically and find their queries solution.
 
 # Skills Used :
