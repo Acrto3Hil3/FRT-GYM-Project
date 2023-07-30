@@ -57,4 +57,7 @@ Welcome to GymStatic, your go-to solution for a modern and captivating gym websi
 
 Credit: This template was built using HTML, CSS, and JavaScript, and it incorporates some popular libraries like Bootstrap for responsive styling.
 
-⚠️ Note: Please note that this is a frontend template only, meaning it does not include backend functionality such as user authentication or database interactions. However, it serves as a solid foundation for your gym's online presence.⚠️
+⚠️ Note: Please note that this is a frontend template only, meaning it does not include backend functionality such as user authentication or database interactions. However, it serves as a solid foundation for your gym's online presence.
+
+# Azure Cloud deployment Link
+https://orange-sea-060e1ec10.3.azurestaticapps.net
