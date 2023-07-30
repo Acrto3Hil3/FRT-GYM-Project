@@ -1,6 +1,6 @@
 ### ⚠️ *Note: This Website is made for the purpose of FRT Project submition. So, it does not contains any backend part therefore it is not able to store any client data, queries and information. To solve the queries contact number and address is provided so client can go through physically and find their queries solution.
 
-# Skills Require :
+# Skills Used :
 1.HTML : HTML is first step to create any web project.
 
 2.CSS : CSS is use to design the page.
