@@ -1,14 +1,15 @@
 *Note: This portfolio made for the purpose of FRT Project submition. So, I am not providing any services related to web or designs.
 
 # Skills Require :
-## 1.HTML : HTML is first step to create any web project.
+1.HTML : HTML is first step to create any web project.
 
-## 2.CSS : CSS is use to design the page.
+2.CSS : CSS is use to design the page.
 
-## 3.JavaScript : JS is use to add functionality. Have strong knowledge of JS.
+3.JavaScript : JS is use to add functionality. Have strong knowledge of JS.
 
 # How to use :
-## Follow the steps give below :
+
+### Follow the steps give below :
 
  1.Clone the Repository : git clone https://github.com/Acrto3Hil3/FRT-GYM-Project.git
 
@@ -18,7 +19,7 @@
 GitHub Pages is a free web hosting service provided by GitHub that allows you to publish static websites directly from your GitHub repositories. It is designed to host documentation, personal portfolios, project landing pages, blogs, and other static content.
 
 # Deploying a project on GitHub Pages:
-1. Create a GitHub Repository: If you haven't already, create a new repository on GitHub to host your project. You can also use an existing repository if you prefer.
+1.Create a GitHub Repository: If you haven't already, create a new repository on GitHub to host your project. You can also use an existing repository if you prefer.
 
 2.Push Project Files to the Repository: Upload all the files and folders of your project to the GitHub repository using Git. You can use the following commands in your terminal:
 
@@ -66,10 +67,8 @@ To deploy a project on Azure Static Web Apps using Git, follow these steps:
 
 That's it! Your project is now deployed on Azure Static Web Apps and is accessible via the provided URL.
 
-# FRT-GYM-Project
-This is my Static GYM Frontend Website !!
-
-## 🏋️ GymStatic - Simple and Stylish Gym Website Template 🏋️
+# Intoro
+## 🏋️ GymStatic - Simple and Stylish Frontend Gym Website  🏋️
 
 Welcome to GymStatic, your go-to solution for a modern and captivating gym website! This static web template is perfect for fitness centers, personal trainers, and health enthusiasts who want to create an impressive online presence.
 
