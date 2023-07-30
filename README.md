@@ -68,7 +68,7 @@ To deploy a project on Azure Static Web Apps using Git, follow these steps:
 That's it! Your project is now deployed on Azure Static Web Apps and is accessible via the provided URL.
 
 # Intoro
-## 🏋️ GymStatic - Simple and Stylish Frontend Gym Website  🏋️
+🏋️ GymStatic - Simple and Stylish Frontend Gym Website  🏋️
 
 Welcome to GymStatic, your go-to solution for a modern and captivating gym website! This static web template is perfect for fitness centers, personal trainers, and health enthusiasts who want to create an impressive online presence.
 
