@@ -1,4 +1,4 @@
-# ⚠️ ### *Note: This portfolio made for the purpose of FRT Project submition. So, I am not providing any services related to web or designs.
+### ⚠️ *Note: This Website is made for the purpose of FRT Project submition. So, it does contains any backend part and store or fetch data from the server side
 
 # Skills Require :
 1.HTML : HTML is first step to create any web project.
