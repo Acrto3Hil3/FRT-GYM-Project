@@ -59,7 +59,7 @@ Credit: This template was built using HTML, CSS, and JavaScript, and it incorpor
 https://orange-sea-060e1ec10.3.azurestaticapps.net
 
 ## Video uploaded on youtub platform
-https://youtu.be/sN9owfApoQE
+https://www.youtube.com/watch?v=sN9owfApoQE
 
 ## Linked Post link
 https://www.linkedin.com/posts/subhash-yadav-7536651b7_webdevelopment-microsoftazure-cloudservices-activity-7091435335640858624-qKua?utm_source=share&utm_medium=member_desktop
