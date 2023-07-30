@@ -1,23 +1,23 @@
 *Note: This portfolio made for the purpose of FRT Project submition. So, I am not providing any services related to web or designs.
 
-## Skills Require :
-1.HTML : HTML is first step to create any web project.
+# Skills Require :
+## 1.HTML : HTML is first step to create any web project.
 
-.CSS : CSS is use to design the page.
+## 2.CSS : CSS is use to design the page.
 
-3.JavaScript : JS is use to add functionality. Have strong knowledge of JS.
+## 3.JavaScript : JS is use to add functionality. Have strong knowledge of JS.
 
-How to use :
-Follow the steps give below :
+# How to use :
+## Follow the steps give below :
 
-Clone the Repository : git clone https://github.com/Deep6239/FRT-Project.git
+ 1.Clone the Repository : git clone https://github.com/Acrto3Hil3/FRT-GYM-Project.git
 
-Then simply open it with live server or run on localhost.
+ 2.Then simply open it with live server or run on localhost.
 
-GitHub Pages:
+# GitHub Pages:
 GitHub Pages is a free web hosting service provided by GitHub that allows you to publish static websites directly from your GitHub repositories. It is designed to host documentation, personal portfolios, project landing pages, blogs, and other static content.
 
-Deploying a project on GitHub Pages:
+# Deploying a project on GitHub Pages:
 1. Create a GitHub Repository: If you haven't already, create a new repository on GitHub to host your project. You can also use an existing repository if you prefer.
 
 2.Push Project Files to the Repository: Upload all the files and folders of your project to the GitHub repository using Git. You can use the following commands in your terminal:
@@ -38,11 +38,12 @@ Replace with your GitHub username and with the name of your repository.
 
 Please note that for certain projects (e.g., React apps created using create-react-app), you might need to configure additional settings to ensure proper deployment.
 
-Azure Portal :
+# Azure Portal :
 Azure Portal is a web-based, unified management console provided by Microsoft for managing and monitoring resources and services in the Microsoft Azure cloud platform. It serves as a central hub where users can access, configure, and monitor various Azure services and resources.
 
-*Note: We use Azure Static web app to host this portfolio webpage.
-How to use Azure Static Web App :
+## *Note: We use Azure Static web app to host this portfolio webpage.
+
+# How to use Azure Static Web App :
 To deploy a project on Azure Static Web Apps using Git, follow these steps:
 
 1.Create a GitHub Repository: Ensure your project is hosted in a GitHub repository. If you don't have one, create a new repository and push your project code to it.
@@ -68,7 +69,7 @@ That's it! Your project is now deployed on Azure Static Web Apps and is accessib
 # FRT-GYM-Project
 This is my Static GYM Frontend Website !!
 
-🏋️ GymStatic - Simple and Stylish Gym Website Template 🏋️
+## 🏋️ GymStatic - Simple and Stylish Gym Website Template 🏋️
 
 Welcome to GymStatic, your go-to solution for a modern and captivating gym website! This static web template is perfect for fitness centers, personal trainers, and health enthusiasts who want to create an impressive online presence.
 
