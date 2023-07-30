@@ -1,4 +1,4 @@
-*Note: This portfolio made for the purpose of FRT Project submition. So, I am not providing any services related to web or designs.
+# ⚠️ ### *Note: This portfolio made for the purpose of FRT Project submition. So, I am not providing any services related to web or designs.
 
 # Skills Require :
 1.HTML : HTML is first step to create any web project.
@@ -42,7 +42,7 @@ Please note that for certain projects (e.g., React apps created using create-rea
 # Azure Portal :
 Azure Portal is a web-based, unified management console provided by Microsoft for managing and monitoring resources and services in the Microsoft Azure cloud platform. It serves as a central hub where users can access, configure, and monitor various Azure services and resources.
 
-## *Note: We use Azure Static web app to host this portfolio webpage.
+ *Note: We use Azure Static web app to host this portfolio webpage.
 
 # How to use Azure Static Web App :
 To deploy a project on Azure Static Web Apps using Git, follow these steps:
@@ -87,7 +87,7 @@ Welcome to GymStatic, your go-to solution for a modern and captivating gym websi
 
 ✅ Contact Us: Stay connected with your potential clients through a user-friendly contact form that encourages inquiries and bookings.
 
-# Pro Fittness Unisex Gym Look
+# Pro Fittness Unisex Gym  Website Look
 ![ss1](https://github.com/Acrto3Hil3/FRT-GYM-Project/assets/123864776/4c7a04d9-ef63-4527-9fa7-4eea2ab30866)
 
 ![ss2](https://github.com/Acrto3Hil3/FRT-GYM-Project/assets/123864776/986a2f29-2336-45f9-801e-5443ebd1de63)
@@ -124,7 +124,7 @@ Welcome to GymStatic, your go-to solution for a modern and captivating gym websi
 
 Credit: This template was built using HTML, CSS, and JavaScript, and it incorporates some popular libraries like Bootstrap for responsive styling.
 
-⚠️ Note: Please note that this is a frontend template only, meaning it does not include backend functionality such as user authentication or database interactions. However, it serves as a solid foundation for your gym's online presence.
+⚠️ *Note: Please note that this is a frontend template only, meaning it does not include backend functionality such as user authentication or database interactions. However, it serves as a solid foundation for your gym's online presence.
 
 # Azure Cloud deployment Link
 https://orange-sea-060e1ec10.3.azurestaticapps.net
